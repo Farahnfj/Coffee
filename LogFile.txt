@@ -1,0 +1,71 @@
+
+
+Writing orders from stack 2022-06-20 at 14:20:35 PDT
+RECEIPT
+Item 1: Black coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+RECEIPT
+Item 1: Black coffee | cost:0.85
+Item 2: Black coffee | cost:0.85
+TOTAL COST OF ORDER:1.7
+
+Writing orders from stack 2022-06-20 at 15:40:47 PDT
+RECEIPT
+Item 1: Black coffee | cost:0.85
+Item 2: Black coffee | cost:0.85
+TOTAL COST OF ORDER:1.7
+RECEIPT
+Item 1: Black coffee | cost:0.85
+Item 2: Black coffee | cost:0.85
+Item 3: Black coffee | cost:0.85
+TOTAL COST OF ORDER:2.55
+RECEIPT
+Item 1: Black coffee-milk-Hot Water-Espresso Shot-sugar-whipped cream | cost:1.5000000000000002
+Item 2: Black coffee-milk-Hot Water-Espresso Shot-sugar-whipped cream | cost:1.5000000000000002
+Item 3: Black coffee | cost:0.85
+TOTAL COST OF ORDER:3.8500000000000005
+
+Writing orders from stack 2022-06-20 at 15:44:18 PDT
+RECEIPT
+Item 1: Black coffee | cost:0.85
+Item 2: Black coffee | cost:0.85
+TOTAL COST OF ORDER:1.7
+
+Writing orders from stack 2022-06-30 at 12-01-28 PDT
+RECEIPT
+Item 1: Black coffee-Espresso Shot-milk | cost:1.3499999999999999
+TOTAL COST OF ORDER:1.3499999999999999
+
+Writing orders from stack 2022-06-30 at 12-25-15 PDT
+RECEIPT
+Item 1: Black coffee-sugar | cost:0.9
+Item 2: Black coffee-Hot Water | cost:0.0
+Item 3: Black coffee-whipped cream | cost:0.95
+Item 4: Black coffee-Espresso Shot-milk | cost:1.3499999999999999
+TOTAL COST OF ORDER:3.2
+RECEIPT
+Item 1: Black coffee-Espresso Shot-milk | cost:1.3499999999999999
+TOTAL COST OF ORDER:1.3499999999999999
+
+Writing orders from stack 2022-06-30 at 14-48-11 PDT
+RECEIPT
+Item 1: Black coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+RECEIPT
+Item 1: Black coffee-Espresso Shot | cost:1.2
+TOTAL COST OF ORDER:1.2
+
+Writing orders from stack 2022-06-30 at 19-25-56 PDT
+RECEIPT
+Item 1: Black coffee-Hot Water | cost:0.0
+TOTAL COST OF ORDER:0.0
+RECEIPT
+Item 1: Black coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+Writing orders from stack 2022-06-30 at 19-38-50 PDT
+RECEIPT
+Item 1: Black coffee-whipped cream | cost:0.95
+Item 2: Black coffee-Espresso Shot | cost:1.2
+Item 3: Black coffee-milk-Hot Water | cost:0.0
+TOTAL COST OF ORDER:2.15
